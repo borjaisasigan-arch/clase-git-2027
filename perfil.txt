@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Color favorito: azul
 Color favorito: Rojo
+=======
+Color favorito: Verde, azul, rojo
+>>>>>>> rama-b
